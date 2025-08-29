@@ -34,8 +34,8 @@ It showcases my skills, projects, and experiences, and serves as a central place
 ## Contact
 If you’d like to connect, feel free to reach out:  
 
-- LinkedIn: [[Bipasha Sharma]([url](https://www.linkedin.com/in/bipasha-sharma-66637b244/))]
-- GitHub: [[Bipasha Sharma]([url](https://github.com/Bipasha2812))]  
+- LinkedIn: [Bipasha Sharma](https://www.linkedin.com/in/bipasha-sharma-66637b244/)
+- GitHub: [Bipasha Sharma](https://github.com/Bipasha2812)
 - Email: [bipsidixit12@gmail.com](mailto:bipsidixit12@gmail.com)  
 
 ---
